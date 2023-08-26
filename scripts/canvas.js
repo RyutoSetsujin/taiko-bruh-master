@@ -17,7 +17,7 @@ scale: (w=1, h=1) => {
 rect: (color="#FFFFFF", x=0, y=0, width=50, height=50, stroke=false, shadow=[0, color]) => {
 var canvas = document.getElementById(cid);
 var ctx = canvas.getContext("2d");
-ctx.scale(scale[0], scale[1])
+ctx.setTransform(scale[0], 0, 0, scale[1], 0, 0)
 if (typeof color == "string") ctx.fillStyle = color;
 else if (typeof color == "object") {
  var gradi = ctx.createLinearGradient(x, y, x+width, y+height);
@@ -36,13 +36,13 @@ if (stroke) {
 ctx.globalAlpha = 1;
 ctx.shadowBlur = 0;
 ctx.shadowColor = "black";
-ctx.scale(1/scale[0], 1/scale[1])
+ctx.setTransform(1/scale[0], 0, 0, 1/scale[1], 0, 0)
 },
 
 circ: (color="#FFFFFF", x=0, y=0, radius=50, stroke=false, shadow=[0, color]) => {
 var canvas = document.getElementById(cid);
 var ctx = canvas.getContext("2d");
-ctx.scale(scale[0], scale[1])
+ctx.setTransform(scale[0], 0, 0, scale[1], 0, 0)
 if (typeof color == "string") ctx.fillStyle = color;
 else if (typeof color == "object") {
  var gradi = ctx.createLinearGradient(x, y, x+width, y+height);
@@ -65,19 +65,21 @@ else ctx.fill();
 ctx.globalAlpha = 1;
 ctx.shadowBlur = 0;
 ctx.shadowColor = "black";
-ctx.scale(1/scale[0], 1/scale[1])
+ctx.setTransform(1/scale[0], 0, 0, 1/scale[1], 0, 0)
 },
 
 clear: () => {
 var canvas = document.getElementById(cid);
 var ctx = canvas.getContext("2d");
-ctx.clearRect(0, 0, canvas.width, canvas.height);
+ctx.setTransform(scale[0], 0, 0, scale[1], 0, 0)
+ctx.clearRect(0, 0, 1536, 764);
+ctx.setTransform(1/scale[0], 0, 0, 1/scale[1], 0, 0)
 },
 
 text: (text="sample :P", color="#FFDDFF", x=0, y=0, font="monospace", size="20", align="center", stroke=false, shadow=[0, color]) => {
 var canvas = document.getElementById(cid);
 var ctx = canvas.getContext("2d");
-ctx.scale(scale[0], scale[1])
+ctx.setTransform(scale[0], 0, 0, scale[1], 0, 0)
 ctx.font = size + "px " + font;
 if (typeof color == "string") ctx.fillStyle = color;
 else if (typeof color == "object") {
@@ -105,7 +107,7 @@ else {ctx.strokeText(text[t], x, y+t*parseFloat(size));}
 ctx.globalAlpha = 1;
 ctx.shadowBlur = 0;
 ctx.shadowColor = "black";
-ctx.scale(1/scale[0], 1/scale[1])
+ctx.setTransform(1/scale[0], 0, 0, 1/scale[1], 0, 0)
 },
 
 autosize: () => {
@@ -123,12 +125,12 @@ canvas.style.width = `${widthNew}px`
 image: (imgs, x=0, y=0, width=50, height=50) => {
 let canvas = document.getElementById(cid);
 let ctx = canvas.getContext("2d");
-ctx.scale(scale[0], scale[1])
+ctx.setTransform(scale[0], 0, 0, scale[1], 0, 0)
 let img = new Image();
 img.onload = function() {
 ctx.drawImage(img, x, y, width, height);
 };
 img.src = imgs;
-ctx.scale(1/scale[0], 1/scale[1])
+ctx.setTransform(1/scale[0], 0, 0, 1/scale[1], 0, 0)
 }
 };

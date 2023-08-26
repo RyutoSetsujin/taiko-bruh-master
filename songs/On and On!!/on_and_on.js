@@ -1,7 +1,7 @@
 ﻿songdata.push(`TITLE:On And On!!
 SUBTITLE:--ETIA. feat. Jenga
 BPM:170
-WAVE:on_and_on.ogg
+WAVE:songs/On and On!!/on_and_on.ogg
 OFFSET:-0.711
 DEMOSTART:12.0051
 MAKER:Ryuto Setsujin
@@ -632,4 +632,4 @@ SCOREDIFF:
 14440400,
 #BARLINEOFF
 0,
-#END
+#END`)
