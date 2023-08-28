@@ -1,5 +1,5 @@
 # Taiko Bruh Master
-A fork of Taiko Bruh Master (by @goldenyoshi22) with extra songs and quality of life features.
+A fork of Taiko Bruh Master (by [goldenyoshi22](https://github.com/goldenyoshi22)) with extra songs and quality of life features.
 
 You can play the game here: https://ryutosetsujin.github.io/taiko-bruh-master
 
