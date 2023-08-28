@@ -11,7 +11,7 @@ let difficulties = {
 	names:  ["Easy",    "Normal",  "Hard",    "Extreme", "Extra"],
 	colors: ["#FF0000", "#00FF00", "#0080FF", "#C000FF", "#0000FF"],
 	gauges: ["Beginner", "Easy", "Easy", "Normal", "Normal"],
-	stars:  [5,         7,         8,         10,        10],
+	stars:  [8,         10,         12,         13,        13],
 	hitwindow: [[0.042, 0.108, 0.125], [0.042, 0.108, 0.125], [0.025, 0.075, 0.108], [0.025, 0.075, 0.108], [0.025, 0.075, 0.108]]
 }
 
@@ -194,7 +194,7 @@ break;
 case 1:
 	cv.rect("#FFCC99", 30, (100 * (-1-selected.song)) + 320, 500, 80);
 	if (selected.song != -1) cv.rect("#000000", 35, (100 * (-1-selected.song)) + 325, 490, 70);
-	cv.text("Settings", (selected.song != -1 ? "#FFCC99" : "#000000"), 280, (100 * (-1-selected.song)) + 365, "pixel", "30", "center");
+	cv.text("Settings (WIP)", (selected.song != -1 ? "#FFCC99" : "#000000"), 280, (100 * (-1-selected.song)) + 365, "pixel", "30", "center");
 
 for (let i = 0; i < songdata.length; i++) {
 	cv.rect("#00C0FF", 30, (100 * (i-selected.song)) + 320, 500, 80);
@@ -208,13 +208,17 @@ if(selected.song != -1) {
 cv.text("Length: " + lengthOfTime(songaudios[selected.song].durationEstimate), "#00C0C0", 665, 65, "pixel", "30", "left");
 
 cv.text(`${songbpms[selected.song].length > 1 ? songbpms[selected.song][0] + "-" : ""}${mdValue("BPM", songdata[selected.song])}${songbpms[selected.song].length > 1 ? "-" + songbpms[selected.song][songbpms[selected.song].length-1] : ""} BPM`, "#00C0C0", 1485, 65, "pixel", "30", "right");
-cv.text(mdValue("TITLE", songdata[selected.song]), "#00FFFF", 1075, 150, "pixel", (mdValue("TITLE", songdata[selected.song]).length > 24 ? (69 * (24 / mdValue("TITLE", songdata[selected.song]).length)).toString() : "70"), "center");
-cv.text(mdValue("SUBTITLE", songdata[selected.song]).slice(2), "#00FFFF", 1075, 225, "pixel", "35", "center");
+cv.text(mdValue("GENRE", songdata[selected.song]), "#00FFFF", 1075, 120, "pixel", (mdValue("GENRE", songdata[selected.song]).length > 50 ? (25 * (20.5 / mdValue("GENRE", songdata[selected.song]).length)).toString() : "25"), "center");
+cv.text(mdValue("TITLE", songdata[selected.song]), "#00FFFF", 1075, 195, "pixel", (mdValue("TITLE", songdata[selected.song]).length > 24 ? (70 * (20.5 / mdValue("TITLE", songdata[selected.song]).length)).toString() : "70"), "center");
+cv.text(mdValue("TITLEEN", songdata[selected.song]), "#00FFFF", 1075, 236, "pixel", (mdValue("TITLEEN", songdata[selected.song]).length > 50 ? (25 * (20.5 / mdValue("TITLEEN", songdata[selected.song]).length)).toString() : "25"), "center");
+cv.text(mdValue("SUBTITLE", songdata[selected.song]).slice(2), "#00FFFF", 1075, 275, "pixel", (mdValue("SUBTITLE", songdata[selected.song]).length > 35 ? (65 * (20.5 / mdValue("SUBTITLE", songdata[selected.song]).length)).toString() : "35"), "center");
+cv.text(mdValue("SUBTITLE2", songdata[selected.song]), "#00FFFF", 1075, 303, "pixel", (mdValue("SUBTITLE2", songdata[selected.song]).length > 50 ? (25 * (20.5 / mdValue("SUBTITLE2", songdata[selected.song]).length)).toString() : "25"), "center");
+cv.text("Charted by " + mdValue("MAKER", songdata[selected.song]), "#00FFFF", 1075, 333, "pixel", (mdValue("MAKER", songdata[selected.song]).length > 100 ? (25 * (20.5 / mdValue("MAKER", songdata[selected.song]).length)).toString() : "25"), "center");
 }
 
 cv.rect("#FFA000", 720, 580, 100, 100);
 if (selected.difficulty != -1) cv.rect("#000000", 725, 585, 90, 90);
-cv.text("Back", (selected.difficulty != -1 ? "#FFA000" : "#000000"), 770, 635, "pixel", "20", "center")
+cv.text("Back", (selected.difficulty != -1 ? "#FFA000" : "#000000"), 770, 635, "pixel", "15", "center")
 	
 
 for (let i = 0; i < 4; i++) {
