@@ -1,9 +1,11 @@
 ﻿songdata.push(`TITLE:(^^)
 SUBTITLE:--yamajet
+GENRE:(^^)
 BPM:140.166
 WAVE:songs/foon/(^^).ogg
 OFFSET:-2.086
 DEMOSTART:2.086
+MAKER:goldenyoshi22
 
 COURSE:4
 LEVEL:6

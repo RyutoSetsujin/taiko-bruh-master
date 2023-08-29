@@ -1,5 +1,7 @@
 ﻿songdata.push(`TITLE:cutsic
-SUBTITLE:--roop vs Jamadanischer / BOF2015
+SUBTITLE:--roop vs Jamadanischer
+SOURCE:BMS Of Fighters 2015
+GENRE:Game Music
 BPM:135
 WAVE:songs/cutsic/cutsic.ogg
 OFFSET:1.08

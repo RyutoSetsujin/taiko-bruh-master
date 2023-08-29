@@ -1,5 +1,7 @@
 ﻿songdata.push(`TITLE:Violently Car
-SUBTITLE:--sampling masters MEGA 「pop'n music 13 カーニバル」より
+SUBTITLE:--sampling masters MEGA
+SOURCE:from pop'n music 13 Carnival
+GENRE:BEMANI
 BPM:170
 WAVE:songs/Violently Car/Violently Car.ogg
 OFFSET:-0.7

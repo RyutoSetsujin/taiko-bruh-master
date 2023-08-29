@@ -1,5 +1,7 @@
 ﻿songdata.push(`TITLE:Masquerade
-SUBTITLE:--M2U 「Cytus」より
+SUBTITLE:--M2U
+SOURCE:from Cytus
+GENRE:Game Music
 BPM:128
 WAVE:songs/Masquerade/Masquerade.ogg
 OFFSET:-0.021

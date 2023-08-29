@@ -1,5 +1,7 @@
 ﻿songdata.push(`TITLE:S.N.U.F.F.Y (cupcakKe Remix)
-SUBTITLE:--METAROOM remixed by Z-I-v Step Team / Z-I-v Summer Contest 2022
+SUBTITLE:--METAROOM remixed by Z-I-v Step Team
+SOURCE:from Z-I-v Summer Contest 2022
+GENRE:Variety
 BPM:100
 WAVE:songs/SNUFFY/snuffy.ogg
 OFFSET:-0.014

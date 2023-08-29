@@ -1,5 +1,8 @@
 ﻿songdata.push(`TITLE:ぽぴぽ
+TITLEEN:PoPiPo
 SUBTITLE:--ラマーズP feat. 初音ミク
+SOURCE:LamazeP feat. Hatsune Miku
+GENRE:VOCALOID
 BPM:150
 WAVE:songs/PoPiPo/PoPiPo.ogg
 OFFSET:-0.367

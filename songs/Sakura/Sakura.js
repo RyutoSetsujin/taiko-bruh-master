@@ -1,5 +1,7 @@
 ﻿songdata.push(`TITLE:桜
+TITLEEN:Sakura
 SUBTITLE:--DA PUMP
+GENRE:J-Pop
 BPM:112
 WAVE:songs/Sakura/Sakura.ogg
 OFFSET:-0.064

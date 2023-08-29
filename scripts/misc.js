@@ -6,7 +6,7 @@ var tips = [
 `good ${new Date().getHours() < 6 || new Date().getHours() > 18 ? "evening" : (new Date().getHours() < 12 ? "morning" : "afternoon")}!`,
 
 //jokes or misc
-"credit to goldenyoshi22 for making this entire game in the first place",
+"credit to goldenyoshi22 for making this\nentire game in the first place",
 "bruh",
 "warning: foon is rising.\nbetter run soon (^^)",
 "shoutout to renos",

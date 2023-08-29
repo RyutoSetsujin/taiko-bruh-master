@@ -1,5 +1,7 @@
 ﻿songdata.push(`TITLE:ロゼッタ
+TITLEEN:Rosetta
 SUBTITLE:--monaca：factory feat. GUMI
+GENRE:VOCALOID
 BPM:132
 WAVE:songs/Rosetta/Rosetta.ogg
 OFFSET:-1.008

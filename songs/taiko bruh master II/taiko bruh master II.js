@@ -1,12 +1,12 @@
 songdata.push(`TITLE:taiko bruh master II
 SUBTITLE:--JohnathanTBG
+GENRE:Original
 BPM:240.71
 WAVE:songs/taiko bruh master II/taiko bruh master II.ogg
 OFFSET:0
 SONGVOL:100
-SEVOL:50
 DEMOSTART:16
-GENRE:バラエティ
+MAKER:goldenyoshi22
 
 COURSE:4
 LEVEL:11.2

@@ -1,5 +1,6 @@
 ﻿songdata.push(`TITLE:login
-SUBTITLE:Cha Cha Ra
+SUBTITLE:--Cha Cha Ra
+GENRE:Variety
 BPM:108
 WAVE:songs/Login/login.ogg
 OFFSET:-0.637

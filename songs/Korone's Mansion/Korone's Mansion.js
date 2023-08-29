@@ -1,5 +1,6 @@
 ﻿songdata.push(`TITLE:Korone's Mansion
 SUBTITLE:--Momonkusa/Kazumi Totaka
+GENRE:Variety
 BPM:112
 WAVE:songs/Korone's Mansion/Korone's Mansion.ogg
 OFFSET:-0.116

@@ -1,5 +1,8 @@
 ﻿songdata.push(`TITLE:アレア→イデア
+TITLEEN:Area→Area
 SUBTITLE:--ケットシー (BOF2009)
+SOURCE:Ketoshii
+GENRE:Game Music
 BPM:132
 WAVE:songs/Area to Idea/area-idea.ogg
 DEMOSTART:45.2164

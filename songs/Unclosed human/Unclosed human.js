@@ -1,5 +1,8 @@
 ﻿songdata.push(`TITLE:アンクローズ・ヒューマン
+TITLEEN:Unclosed human
 SUBTITLE:--カジャ ft. 初音ミク
+SOURCE:Kaja ft. Hatsune Miku
+GENRE:VOCALOID
 BPM:178
 WAVE:songs/Unclosed human/Unclosed human.ogg
 OFFSET:-1.601

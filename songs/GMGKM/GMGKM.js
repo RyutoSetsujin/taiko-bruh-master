@@ -1,5 +1,7 @@
-﻿songdata.push(`TITLE:Giant Marauding Godless Killing Machine
+﻿songdata.push(`TITLE:GMGKM
+TITLEEN:Giant Marauding Godless Killing Machine
 SUBTITLE:--Cardboard Box
+GENRE:Variety
 BPM:290
 WAVE:songs/GMGKM/Giant Marauding Godless Killing Machine.ogg
 DEMOSTART:41.3793

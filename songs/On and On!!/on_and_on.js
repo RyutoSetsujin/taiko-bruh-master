@@ -1,5 +1,6 @@
 ﻿songdata.push(`TITLE:On And On!!
 SUBTITLE:--ETIA. feat. Jenga
+GENRE:Game Music
 BPM:170
 WAVE:songs/On and On!!/on_and_on.ogg
 OFFSET:-0.711

@@ -1,5 +1,7 @@
 ﻿songdata.push(`TITLE:"Schall" we step?
-SUBTITLE:--red glasses「pop'n music éclale」より
+SUBTITLE:--red glasses
+SOURCE:from pop'n music éclale
+GENRE:Game Music
 BPM:178.00
 WAVE:songs/schall/'Schall' we step.ogg
 OFFSET:-0.333

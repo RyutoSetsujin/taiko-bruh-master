@@ -1,10 +1,12 @@
 ﻿songdata.push(`TITLE:tiny tales continue
-SUBTITLE:--Chroma / GROOVE COASTER 3 LINK FEVER
+SUBTITLE:--Chroma
+SOURCE:from GROOVE COASTER 3 LINK FEVER
 BPM:188
 WAVE:songs/tiny tales continue/tiny tales continue.ogg
 OFFSET:1.259
 DEMOSTART:84.5633
-GENRE:ゲームミュージック
+GENRE:Game Music
+MAKER:Ryuto Setsujin
 
 COURSE:Easy
 LEVEL:3
