@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:Violently Car
+﻿songdata.push(`DISPLAY:Violently Car
+TITLE:Violently Car
 SUBTITLE:--sampling masters MEGA
 SOURCE:from pop'n music 13 Carnival
 GENRE:BEMANI

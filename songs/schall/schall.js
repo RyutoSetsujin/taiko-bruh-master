@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:"Schall" we step?
+﻿songdata.push(`DISPLAY:"Schall" we step?
+TITLE:"Schall" we step?
 SUBTITLE:--red glasses
 SOURCE:from pop'n music éclale
 GENRE:Game Music

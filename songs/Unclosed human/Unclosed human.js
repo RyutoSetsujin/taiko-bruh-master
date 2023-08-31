@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:アンクローズ・ヒューマン
+﻿songdata.push(`DISPLAY:アンクローズ・ヒューマン
+TITLE:アンクローズ・ヒューマン
 TITLEEN:Unclosed human
 SUBTITLE:--カジャ ft. 初音ミク
 SOURCE:Kaja ft. Hatsune Miku

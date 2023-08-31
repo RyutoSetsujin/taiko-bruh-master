@@ -1,4 +1,5 @@
-songdata.push(`TITLE:taiko bruh master II
+songdata.push(`DISPLAY:taiko bruh master II
+TITLE:taiko bruh master II
 SUBTITLE:--JohnathanTBG
 GENRE:Original
 BPM:240.71

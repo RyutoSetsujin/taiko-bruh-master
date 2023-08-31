@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:GMGKM
+﻿songdata.push(`DISPLAY:GMGKM
+TITLE:GMGKM
 TITLEEN:Giant Marauding Godless Killing Machine
 SUBTITLE:--Cardboard Box
 GENRE:Variety

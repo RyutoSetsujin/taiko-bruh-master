@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:Wonky Monkey
+﻿songdata.push(`DISPLAY:Wonky Monkey
+TITLE:Wonky Monkey
 TITLEEN:
 SUBTITLE:--ギガ ft. 戌神ころね
 SOURCE:Giga ft. Inugami Korone

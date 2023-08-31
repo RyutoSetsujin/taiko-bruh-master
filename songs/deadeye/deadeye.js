@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:deadeye
+﻿songdata.push(`DISPLAY:deadeye
+TITLE:deadeye
 SUBTITLE:--Acotto
 SOURCE:from CHUNITHM SUN PLUS
 GENRE:Game Music

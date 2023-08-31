@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:BlackFlagBreaker!!
+﻿songdata.push(`DISPLAY:BlackFlagBreaker!!
+TITLE:BlackFlagBreaker!!
 SUBTITLE:--sasakure.UK ft. 社築
 SOURCE:sasakure.UK ft. Yashiro Kizuku
 GENRE:J-Pop

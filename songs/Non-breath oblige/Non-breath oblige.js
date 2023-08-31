@@ -1,13 +1,13 @@
-﻿TITLE:Non-breath oblige
-SUBTITLE:--Pinocchio-P ft. Hatsune Miku
+﻿songdata.push(`DISPLAY:ノンブレス・オブリージュ
+TITLE:ノンブレス・オブリージュ
+TITLEEN:Non-breath oblige
+SUBTITLE:--ピノキオピー ft. 初音ミク
+SOURCE:Pinocchio-P ft. Hatsune Miku
+GENRE:VOCALOID
 BPM:74
-TITLEJA:ノンブレス・オブリージュ
-SUBTITLEJA:ピノキオピー ft. 初音ミク
-WAVE:Non-breath oblige.ogg
-BGMOVIE:Non-breath oblige.mp4
+WAVE:songs/Non-breath oblige/Non-breath oblige.ogg
 OFFSET:-0.036
 DEMOSTART:60.0337
-PREIMAGE:Non-breath oblige.jpg
 MAKER:Shoxk & Colin
 
 COURSE:Edit
@@ -738,4 +738,4 @@ NOTESDESIGNER0:Shoxk
 4,
 ,
 ,
-#END
+#END`)

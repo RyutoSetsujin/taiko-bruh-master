@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:Day 1
+﻿songdata.push(`DISPLAY:Day 1
+TITLE:Day 1
 SUBTITLE:--레드벨벳
 SOURCE:Red Velvet
 GENRE:K-Pop

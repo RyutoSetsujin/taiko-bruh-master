@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:愛して愛して愛して
+﻿songdata.push(`DISPLAY:愛して愛して愛して
+TITLE:愛して愛して愛して
 TITLEEN:Aishite Aishite Aishite
 SUBTITLE:--きくお ft. 初音ミク
 SOURCE:Kikuo ft. Hatsune Miku

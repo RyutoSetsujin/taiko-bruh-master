@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:Boy's a liar Pt. 2
+﻿songdata.push(`DISPLAY:Boy's a liar Pt. 2
+TITLE:Boy's a liar Pt. 2
 SUBTITLE:--PinkPantheress feat. Ice Spice
 GENRE:Rap
 BPM:133

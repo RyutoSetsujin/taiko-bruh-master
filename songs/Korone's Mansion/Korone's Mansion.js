@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:Korone's Mansion
+﻿songdata.push(`DISPLAY:Korone's Mansion
+TITLE:Korone's Mansion
 SUBTITLE:--Momonkusa/Kazumi Totaka
 GENRE:Variety
 BPM:112

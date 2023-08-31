@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:脳漿炸裂ガール
+﻿songdata.push(`DISPLAY:脳漿炸裂ガール
+TITLE:脳漿炸裂ガール
 TITLEEN:Brain Fluid Explosion Girl -2015 Remaster-
 SUBTITLE:--れるりり ft. 初音ミク, GUMI
 SOURCE:rerulili ft. Hatsune Miku & GUMI

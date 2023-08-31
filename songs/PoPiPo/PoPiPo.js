@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:ぽぴぽ
+﻿songdata.push(`DISPLAY:ぽぴぽ
+TITLE:ぽぴぽ
 TITLEEN:PoPiPo
 SUBTITLE:--ラマーズP feat. 初音ミク
 SOURCE:LamazeP feat. Hatsune Miku

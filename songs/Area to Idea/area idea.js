@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:アレア→イデア
+﻿songdata.push(`DISPLAY:アレア→イデア
+TITLE:アレア→イデア
 TITLEEN:Area→Area
 SUBTITLE:--ケットシー (BOF2009)
 SOURCE:Ketoshii

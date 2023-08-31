@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:On And On!!
+﻿songdata.push(`DISPLAY:On And On!!
+TITLE:On And On!!
 SUBTITLE:--ETIA. feat. Jenga
 GENRE:Game Music
 BPM:170

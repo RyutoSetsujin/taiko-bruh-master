@@ -1,7 +1,11 @@
-﻿TITLE:peter griffin
+﻿songdata.push(`DISPLAY:peter griffin
+TITLE:peter griffin
+TITLEEN:
 SUBTITLE:--Yonokid
+SOURCE:Family Guy
+GENRE:lois
 BPM:200
-WAVE:peter griffin.ogg
+WAVE:songs/peter griffin/peter griffin.ogg
 OFFSET:0
 DEMOSTART:9.600
 MAKER:Colin
@@ -144,6 +148,4 @@ NOTESDESIGNER0:Colin
 11,
 600008,
 #GOGOEND
-#END
-
-
+#END`)

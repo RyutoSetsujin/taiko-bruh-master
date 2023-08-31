@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:生命体
+﻿songdata.push(`DISPLAY:生命体
+TITLE:生命体
 TITLEEN:Life
 SUBTITLE:--星野源
 SOURCE:Gen Hoshino

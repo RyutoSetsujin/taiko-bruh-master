@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:ロゼッタ
+﻿songdata.push(`DISPLAY:ロゼッタ
+TITLE:ロゼッタ
 TITLEEN:Rosetta
 SUBTITLE:--monaca：factory feat. GUMI
 GENRE:VOCALOID

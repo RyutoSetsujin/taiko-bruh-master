@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:What's up? Pop!
+﻿songdata.push(`DISPLAY:What's up? Pop!
+TITLE:What's up? Pop!
 TITLEEN:
 SUBTITLE:--Capchii ft. 初音ミク
 SOURCE:from Project SEKAI COLORFUL STAGE!

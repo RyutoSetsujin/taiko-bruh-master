@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:(^^)
+﻿songdata.push(`DISPLAY:(^^)
+TITLE:(^^)
 SUBTITLE:--yamajet
 GENRE:(^^)
 BPM:140.166

@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:tiny tales continue
+﻿songdata.push(`DISPLAY:tiny tales continue
+TITLE:tiny tales continue
 SUBTITLE:--Chroma
 SOURCE:from GROOVE COASTER 3 LINK FEVER
 BPM:188

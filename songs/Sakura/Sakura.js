@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:桜
+﻿songdata.push(`DISPLAY:桜
+TITLE:桜
 TITLEEN:Sakura
 SUBTITLE:--DA PUMP
 GENRE:J-Pop

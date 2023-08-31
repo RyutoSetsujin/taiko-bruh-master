@@ -1,13 +1,13 @@
-﻿TITLE:Lagtrain
-SUBTITLE:--inabakumori ft. Yuki Kaai
-TITLEJA:ラグトレイン
-SUBTITLEJA:稲葉曇 ft. 歌愛ユキ
-BGMOVIE:Lagtrain.mp4
-PREIMAGE:Lagtrain.jpg
+﻿songdata.push(`DISPLAY:ラグトレイン
+TITLE:ラグトレイン
+TITLEEN:Lagtrain
+SUBTITLE:--稲葉曇 ft. 歌愛ユキ
+SOURCE:inabakumori ft. Yuki Kaai
+GENRE:VOCALOID
 BPM:147
+WAVE:songs/Lagtrain/Lagtrain.ogg
 OFFSET:-3.264
 DEMOSTART:112.651
-WAVE:Lagtrain.ogg
 MAKER:Colin
 
 COURSE:Oni
@@ -487,12 +487,4 @@ NOTESDESIGNER0:Colin
 1111,
 1111,
 1111,
-#END
-
-
-
-
-
-
-
-
+#END`)

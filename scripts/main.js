@@ -199,7 +199,7 @@ case 1:
 for (let i = 0; i < songdata.length; i++) {
 	cv.rect("#00C0FF", 30, (100 * (i-selected.song)) + 320, 500, 80);
 	if (selected.song != i) cv.rect("#000000", 35, (100 * (i-selected.song)) + 325, 490, 70);
-	cv.text(mdValue("TITLE", songdata[i]), (selected.song != i ? "#00C0FF" : "#000000"), 280, (100 * (i-selected.song)) + 365, "pixel", (mdValue("TITLE", songdata[i]).length > 24 ? (30 * (22 / mdValue("TITLE", songdata[i]).length)).toString() : "30"), "center");
+	cv.text(mdValue("DISPLAY", songdata[i]), (selected.song != i ? "#00C0FF" : "#000000"), 280, (100 * (i-selected.song)) + 365, "pixel", (mdValue("DISPLAY", songdata[i]).length > 24 ? (30 * (22 / mdValue("DISPLAY", songdata[i]).length)).toString() : "30"), "center");
 }
 
 cv.rect("#00FFFF", 650, 20, 850, 724);

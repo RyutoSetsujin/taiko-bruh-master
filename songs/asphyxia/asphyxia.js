@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:asphyxia
+﻿songdata.push(`DISPLAY:asphyxia
+TITLE:asphyxia
 SUBTITLE:--Cö shu Nie
 SOURCE:from Tokyo Ghoul：re
 GENRE:Anime

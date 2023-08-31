@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:Don't Fight The Music
+﻿songdata.push(`DISPLAY:Don't Fight The Music
+TITLE:Don't Fight The Music
 SUBTITLE:--黒魔
 SOURCE:オンゲキ R.E.D.
 GENRE:Game Music

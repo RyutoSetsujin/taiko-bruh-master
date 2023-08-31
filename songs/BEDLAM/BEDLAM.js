@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:BEDLAM
+﻿songdata.push(`DISPLAY:BEDLAM
+TITLE:BEDLAM
 SUBTITLE:--SANY-ON
 SOURCE:from EZ2AC EVOLVE
 GENRE:Game Music

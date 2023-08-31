@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:login
+﻿songdata.push(`DISPLAY:login
+TITLE:login
 SUBTITLE:--Cha Cha Ra
 GENRE:Variety
 BPM:108

@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:Do the IDOL!! ~断崖絶壁チュパカブラ~
+﻿songdata.push(`DISPLAY:Do the IDOL!!
+TITLE:Do the IDOL!! ~断崖絶壁チュパカブラ~
 TITLEEN:Do the IDOL!! ～Precipitous Climber Chupacabra～
 SUBTITLE:--佐藤貴文
 SOURCE:from THE iDOLM@STER Million Live! Theater Days

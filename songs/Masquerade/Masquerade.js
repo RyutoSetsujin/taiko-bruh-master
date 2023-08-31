@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:Masquerade
+﻿songdata.push(`DISPLAY:Masquerade
+TITLE:Masquerade
 SUBTITLE:--M2U
 SOURCE:from Cytus
 GENRE:Game Music

@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:Title
+﻿songdata.push(`DISPLAY:Title
+TITLE:Title
 TITLEEN:
 SUBTITLE:--Subtitle
 SOURCE:

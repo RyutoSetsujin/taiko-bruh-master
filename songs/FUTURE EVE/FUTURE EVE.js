@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:FUTURE EVE
+﻿songdata.push(`DISPLAY:FUTURE EVE
+TITLE:FUTURE EVE
 TITLEEN:
 SUBTITLE:--sasakure.UK ft. 初音ミク
 SOURCE:sasakure.UK ft. Hatsune Miku

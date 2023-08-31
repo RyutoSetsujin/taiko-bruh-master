@@ -1,5 +1,6 @@
-﻿songdata.push(`TITLE:Best of 2022 Medley
-SUBTITLE:--
+﻿songdata.push(`DISPLAY:Best of 2022 Medley
+TITLE:Best of 2022 Medley
+SUBTITLE:--Various Artists
 GENRE:Variety
 BPM:126
 WAVE:songs/Best of 2022 Medley/Best of 2022 Medley.ogg

@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:S.N.U.F.F.Y (cupcakKe Remix)
+﻿songdata.push(`DISPLAY:S.N.U.F.F.Y
+TITLE:S.N.U.F.F.Y (cupcakKe Remix)
 SUBTITLE:--METAROOM remixed by Z-I-v Step Team
 SOURCE:from Z-I-v Summer Contest 2022
 GENRE:Variety

@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:DON'T KILL THE MUSIC
+﻿songdata.push(`DISPLAY:DON'T KILL THE MUSIC
+TITLE:DON'T KILL THE MUSIC
 SUBTITLE:--Yonokid
 SOURCE:Taiko no Tatsujin 2022 Music Open Call!!
 GENRE:Game Music

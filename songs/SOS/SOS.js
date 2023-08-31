@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:SOS
+﻿songdata.push(`DISPLAY:SOS
+TITLE:SOS
 SUBTITLE:--Midnight Grand Orchestra
 GENRE:J-Pop
 BPM:142

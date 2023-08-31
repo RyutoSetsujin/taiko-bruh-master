@@ -1,12 +1,14 @@
-﻿TITLE:Levitating
+﻿songdata.push(`DISPLAY:Levitating
+TITLE:Levitating
+TITLEEN:
 SUBTITLE:--Dua Lipa ft. DaBaby
+SOURCE:
+GENRE:Pop
 BPM:103
-WAVE:Levitating.ogg
+WAVE:songs/Levitating/Levitating.ogg
 OFFSET:-4.636
 DEMOSTART:32.597
-BGMOVIE:.mp4
 MAKER:Colin
-PREIMAGE:Levitating.jpg
 
 COURSE:Oni
 LEVEL:7
@@ -288,8 +290,4 @@ NOTESDESIGNER0:Colin
 08000000,
 #GOGOEND
 2,
-#END
-
-
-
-
+#END`)

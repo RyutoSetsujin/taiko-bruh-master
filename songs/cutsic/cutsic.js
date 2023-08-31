@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:cutsic
+﻿songdata.push(`DISPLAY:cutsic
+TITLE:cutsic
 SUBTITLE:--roop vs Jamadanischer
 SOURCE:BMS Of Fighters 2015
 GENRE:Game Music

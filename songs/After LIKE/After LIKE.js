@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:After LIKE (cupcakKe Remix)
+﻿songdata.push(`DISPLAY:After LIKE (cupcakKe Remix)
+TITLE:After LIKE (cupcakKe Remix)
 SUBTITLE:--IVE
 BPM:125
 WAVE:songs/After LIKE/After LIKE.ogg

@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:初音天地開闢神話
+﻿songdata.push(`DISPLAY:初音天地開闢神話
+TITLE:初音天地開闢神話
 TITLEEN:Hatsune Creation Myth
 SUBTITLE:--cosMo@暴走P ft. 初音ミク
 SOURCE:cosMo@BousouP ft. Hatsune Miku

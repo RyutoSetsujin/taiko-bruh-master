@@ -1,4 +1,5 @@
-﻿songdata.push(`TITLE:TOKYO HOT
+﻿songdata.push(`DISPLAY:TOKYO HOT
+TITLE:TOKYO HOT
 SUBTITLE:--TOKYO HOT
 GENRE:Variety
 BPM:150
