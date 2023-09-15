@@ -6,7 +6,7 @@ var tips = [
 `good ${new Date().getHours() < 6 || new Date().getHours() > 18 ? "evening" : (new Date().getHours() < 12 ? "morning" : "afternoon")}!`,
 
 //jokes or misc
-"credit to goldenyoshi22 for making this entire game in the first place",
+"credit to goldenyoshi22 for naming the game",
 "bruh",
 "warning: foon is rising.\nbetter run soon (^^)",
 "shoutout to renos",
@@ -20,7 +20,10 @@ var tips = [
 "try practicing your accuracy, it will pay off later on.",
 "make sure you have a good drum for high level play!\nyou can't play 11+ with a tatacon...right?",
 "if you can't beat anything too hard, don't give up!\nkeep playing the game to improve.",
-"each difficulty has a different scale.\nextreme ☆3 will be way harder than easy ☆3."
+"each difficulty has a different scale.\nextreme ☆3 will be way harder than easy ☆3.",
+"if you feel like taking a break, don't hesitate.\nthis is just a game, after all...",
+"if you're having trouble with your accuracy,\nmaybe your offset isn't right.",
+"some songs have an extra difficulty, which is accessible by pressing\nright ka 10 times when selecting extreme."
 ]
 
 
