@@ -4,5 +4,5 @@ This is an in-development branch of the game, used for testing new songs and fea
 
 You can play most stable version of the game here: https://ryutosetsujin.github.io/taiko-bruh-master
 
-### KNOWN BUGS
-Pressing Enter on the "Back" button loads an empty chart and breaks the entire game.
+Controls are D F J K
+F and J for the red notes, D and K for the blue notes. Use D and K to select a song and difficulty, and press F or J to proceed.
