@@ -30364,7 +30364,7 @@ WAVE:songs/iLLness LiLin/iLLness LiLin.ogg
 OFFSET:-0.911
 DEMOSTART:88.357
 SCOREMODE:2
-MAKER:Colin
+MAKER:Bol
 
 COURSE:Edit
 LEVEL:11
@@ -34640,7 +34640,7 @@ qmafans 3
 
 songdata.push(`DISPLAY:Milky Way Star(Extended Ver.)
 TITLE:Milky Way Star(Extended Ver.)
-SUBTITLE:--BEMANI Sound Team "劇団レコード" feat.ミーウェル / Quiz Magic Academy Time of Brightness
+SUBTITLE:--BEMANI Sound Team "劇団レコード" feat.ミーウェル
 SOURCE:from クイズマジックアカデミー 輝望の刻
 PREIMAGE:Milky Way Star(Extended Ver.).png
 BPM:134
