@@ -191,7 +191,8 @@ Easy: ☆4+
 songdata.push(`DISPLAY:3amba cat
 TITLE:3amba cat
 SUBTITLE:--asahi3
-GENRE:Variety
+SOURCE:from 第11回自称無名BMS作家が物申す！
+GENRE:Be-Music Source
 BPM:128
 WAVE:songs/3amba cat/3amba cat.ogg
 DEMOSTART:15.703
@@ -890,7 +891,8 @@ Easy: ☆2
 songdata.push(`DISPLAY:Absurd Gaff
 TITLE:Absurd Gaff
 SUBTITLE:--siromaru
-GENRE:Variety
+SOURCE:from BOF2008
+GENRE:Be-Music Source
 BPM:160
 WAVE:songs/Absurd Gaff/absurd gaff_a2.ogg
 DEMOSTART:60.709
@@ -6082,7 +6084,7 @@ TITLE:アレア→イデア
 TITLEEN:Area→Idea
 SUBTITLE:--ケットシー
 SOURCE:from BOF2009
-GENRE:Game Music
+GENRE:Be-Music Source
 BPM:132
 WAVE:songs/Area to Idea/area-idea.ogg
 DEMOSTART:45.2164
@@ -21128,7 +21130,7 @@ songdata.push(`DISPLAY:cutsic
 TITLE:cutsic
 SUBTITLE:--roop vs Jamadanischer
 SOURCE:from BMS Of Fighters 2015
-GENRE:Game Music
+GENRE:Be-Music Source
 BPM:135
 WAVE:songs/cutsic/cutsic.ogg
 OFFSET:1.08
@@ -25684,7 +25686,7 @@ songdata.push(`DISPLAY:DRAGONLADY
 TITLE:DRAGONLADY (SUPER FIRE PROWREST REMIX)
 SUBTITLE:--Nankumo
 SOURCE:from BMS OF FIGHTERS 2009
-GENRE:Game Music
+GENRE:Be-Music Source
 BPM:155
 WAVE:songs/DRAGONLADY/audio.ogg
 OFFSET:1.54835
@@ -32613,7 +32615,7 @@ Easy: ☆1
 songdata.push(`DISPLAY:lest
 TITLE:lest
 SUBTITLE:--ABE3
-GENRE:Variety
+GENRE:Game Music
 BPM:69
 WAVE:songs/lest/lest.ogg
 DEMOSTART:56.359
@@ -37462,7 +37464,8 @@ Easy: ☆5
 songdata.push(`DISPLAY:NS22
 TITLE:NS22
 SUBTITLE:--3034
-GENRE:Variety
+SOURCE:from BOF2011
+GENRE:Be-Music Source
 BPM:222
 WAVE:songs/NS22/ns22.ogg
 DEMOSTART:105.009
@@ -38160,7 +38163,8 @@ bms 2
 songdata.push(`DISPLAY:On And On!!
 TITLE:On And On!!
 SUBTITLE:--ETIA. feat. Jenga
-GENRE:Game Music
+SOURCE:from G2R2018 CLIMAX
+GENRE:Be-Music Source
 BPM:170
 WAVE:songs/On and On!!/on_and_on.ogg
 OFFSET:-0.711
@@ -40951,7 +40955,7 @@ songdata.push(`DISPLAY:"Schall" we step?
 TITLE:"Schall" we step?
 SUBTITLE:--red glasses
 SOURCE:from pop'n music éclale
-GENRE:Game Music
+GENRE:BEMANI
 BPM:178.00
 WAVE:songs/schall/'Schall' we step.ogg
 OFFSET:-0.333
@@ -41573,9 +41577,9 @@ Easy: ☆4-
 songdata.push(`DISPLAY:スクラッチマニア！このゆびとまれ！
 TITLE:スクラッチマニア！このゆびとまれ！
 TITLEEN:Scratch Mania! Stop This Finger!
-SUBTITLE:--常夏ハニーパイ / 144.978bpm
-SUBTITLEEN:--常夏ハニーパイ / 144.978bpm
-GENRE:Variety
+SUBTITLE:--常夏ハニーパイ
+SOURCE:from BOF2010
+GENRE:Be-Music Source
 BPM:144.978
 WAVE:songs/Scratch Mania! Stop This Finger!/scratchmania.ogg
 DEMOSTART:71.2972
@@ -44879,7 +44883,7 @@ songdata.push(`DISPLAY:the lost dedicated
 TITLE:the lost dedicated
 SUBTITLE:--yst
 SOURCE:from BOF2010
-GENRE:Game Music
+GENRE:Be-Music Source
 BPM:134
 WAVE:songs/the lost dedicated/tld.ogg
 DEMOSTART:30.5068
