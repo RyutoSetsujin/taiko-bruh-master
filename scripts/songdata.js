@@ -21124,7 +21124,7 @@ bms
 songdata.push(`DISPLAY:cutsic
 TITLE:cutsic
 SUBTITLE:--roop vs Jamadanischer
-SOURCE:BMS Of Fighters 2015
+SOURCE:from BMS Of Fighters 2015
 GENRE:Game Music
 BPM:135
 WAVE:songs/cutsic/cutsic.ogg
@@ -23929,7 +23929,7 @@ ongekir
 songdata.push(`DISPLAY:Don't Fight The Music
 TITLE:Don't Fight The Music
 SUBTITLE:--黒魔
-SOURCE:オンゲキ R.E.D.
+SOURCE:from オンゲキ R.E.D.
 GENRE:Game Music
 BPM:195
 WAVE:songs/Dont Fight The Music/Dont Fight The Music.ogg
@@ -25678,7 +25678,8 @@ gyatttttttttt gya gya gya gygygygygygygygggggg
 */
 songdata.push(`DISPLAY:DRAGONLADY
 TITLE:DRAGONLADY (SUPER FIRE PROWREST REMIX)
-SUBTITLE:--Nankumo / BMS OF FIGHTERS 2009
+SUBTITLE:--Nankumo
+SOURCE:from BMS OF FIGHTERS 2009
 GENRE:Game Music
 BPM:155
 WAVE:songs/DRAGONLADY/audio.ogg
@@ -46848,7 +46849,7 @@ songdata.push(`DISPLAY:TRIPLE HELIX
 TITLE:TRIPLE HELIX
 TITLEEN:
 SUBTITLE:--Yonokid
-SOURCE:OpenTaiko
+SOURCE:from OpenTaiko
 GENRE:Game Music
 BPM:160
 WAVE:songs/TRIPLE HELIX/TRIPLE HELIX.ogg
