@@ -4,5 +4,4 @@ This is an in-development branch of the game, used for testing new songs and fea
 
 You can play most stable version of the game here: https://ryutosetsujin.github.io/taiko-bruh-master
 
-Controls are D F J K
-F and J for the red notes, D and K for the blue notes. Use D and K to select a song and difficulty, and press F or J to proceed.
+Controls are D F J K. F and J for the red notes, D and K for the blue notes. Use D and K to select a song and difficulty, and press F or J to proceed.
